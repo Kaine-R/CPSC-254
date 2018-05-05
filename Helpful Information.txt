@@ -1,0 +1,20 @@
+Given this information:
+  ship: { sx: 0, sy: 0, w: 37, h: 42, frames: 1 },
+
+  missile: { sx: 0, sy: 30, w: 2, h: 10, frames: 1 },
+
+  enemy_purple: { sx: 37, sy: 0, w: 42, h: 43, frames: 1 },
+sx means skip x-axis, so if it's sx: 37 it means to skip 37 pixals.
+for purple enemy, you skip the ship(37 to the right) and the whole image is contained within 42w by 43h
+If you want to return the missle, you would need to change the the first line of pixals on the second row.
+There's also a picture of where the color change is for the ship missile, called "missilecolor.txt"
+
+Add 3 more pictures,
+one for and tanky enemy,
+one for a boss,
+and one for powerup
+
+just add them to the rightof the old pictures, but make sure they dont collide other pictures.
+Idk if i can use all of them, i'll try. Also i changed the back groun to be redish for blood.
+since i guess we're fighting inside the body.
+
