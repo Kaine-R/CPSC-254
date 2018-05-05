@@ -1,4 +1,4 @@
-Alien Invasion
+An
 ==============
 This is the sample game that is built in the first three Chapter of
 mobile HTML5 Game Development.
@@ -6,6 +6,7 @@ mobile HTML5 Game Development.
 It is released under both the GPL and MIT license to do with what you will.
 
 Playable Version: 
+https://github.com/Kaine-R/CPSC-254/tree/master/HEART%20ATTACK/
 http://cykod.github.com/AlienInvasion/
 
 Bit.ly link for mobile: 
