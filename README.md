@@ -6,8 +6,7 @@ mobile HTML5 Game Development.
 It is released under both the GPL and MIT license to do with what you will.
 
 Playable Version: 
-https://Kaine-R.github.com/Kaine-R/CPSC-254/tree/master/HEART%20ATTACK/
-https://github.com/Kaine-R/CPSC-254/tree/master/HEART%20ATTACK/
+https://Kaine-R.github.com/Heart%20ATTACK/
 http://cykod.github.com/AlienInvasion/
 
 Bit.ly link for mobile: 
